@@ -32,5 +32,5 @@
   <br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-username" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=milymorll" alt="Profile Views">
 </div>
