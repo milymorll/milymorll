@@ -18,6 +18,6 @@
 
 <br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br>
+
 ![](https://komarev.com/ghpvc/?username=milymorll)
 
