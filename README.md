@@ -1,4 +1,5 @@
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer)](https://git.io/typing-svg)
 <br>
@@ -16,9 +17,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 ![](https://komarev.com/ghpvc/?username=milymorll)
 
