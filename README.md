@@ -18,4 +18,5 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=milymorll)
+![Jokes Card](https://readme-jokes.vercel.app/api)
