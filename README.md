@@ -17,6 +17,7 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=milymorll)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
+![](https://komarev.com/ghpvc/?username=milymorll)
+
