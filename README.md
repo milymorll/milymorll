@@ -2,7 +2,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer+..........." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+developer+..." alt="Typing SVG">
   </a>
 </div>
 
